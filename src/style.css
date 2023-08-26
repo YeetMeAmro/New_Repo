@@ -1,0 +1,16 @@
+:root {
+
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(190, 202, 222);
+}
